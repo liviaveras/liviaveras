@@ -1,4 +1,5 @@
-## Hi there 👋
+seja bem vindos ao meu perfil
+meu nome é Lívia
 
 <!--
 **liviaveras/liviaveras** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
