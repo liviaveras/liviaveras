@@ -1,2 +1,3 @@
-seja bem vindos ao meu perfil
-meu nome é Lívia
+Sejam bem vindos ao meu perfil
+
+Meu nome é Lívia
